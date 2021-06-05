@@ -1,0 +1,8 @@
+sunday monday
+monday tuesday
+tuesday wednesday
+wednesday thursday 
+thursdat friday
+friday saturday 
+saturday sunday
+
